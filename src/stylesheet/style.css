@@ -1,0 +1,10 @@
+a {
+   text-decoration: none;
+   
+}
+ul {
+    justify-content: space-between;
+    display: flex;
+    text-decoration: none;
+    list-style-type: none;
+}
